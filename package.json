@@ -1,6 +1,6 @@
 {
-  "name": "expo-template-blank-typescript",
-  "description": "The Blank project template includes the minimum dependencies to run and an empty root component.",
+  "name": "expo-template-redux-typescript",
+  "description": "The Blank project template includes typescript and redux.",
   "version": "43.0.2",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
